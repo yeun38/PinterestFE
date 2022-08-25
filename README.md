@@ -79,3 +79,5 @@ result    : object
 ![api5](https://user-images.githubusercontent.com/109029407/186673330-8596d943-6e45-43ab-bdf6-baf0053db1aa.png)
 
 ## 트러블 슈팅(Trouble Shooting)
+
+https://www.notion.so/15c20f49d60c428da654e00f54562a07
